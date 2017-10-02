@@ -1,9 +1,9 @@
 
-#Google Maps Nearby Scanner : making the project into a library.
+# Google Maps Nearby Scanner : making the project into a library.
 
 Conversion of this existing android project into a library which can be imported into another application or project.
 
-##Getting Started
+## Getting Started
 
 What is a library and a package in terms of android ?
 
@@ -26,7 +26,7 @@ A library module is useful in the following situations:
 
 Please go through the following links for more detail view on android library : [ANDROID LIBRARY TUTORIALS](https://developer.android.com/studio/projects/android-library.html).
 
-##Convert an existing app module to a library module
+## Convert an existing app module to a library module
 
 If you have an existing app module with all the code you want to reuse, you can turn it into a library module as follows:
 
@@ -47,7 +47,7 @@ That's it. The entire structure of the module remains the same, but it now opera
 
 Hold on, we are NOT done yet, we have to build the AAR file, select the library module in the Project window and then click Build > Build APK.
 
-##Import this library or add it as a dependency in another application
+## Import this library or add it as a dependency in another application
 
 To use your Android library's code in another app module, proceed as follows:
 
