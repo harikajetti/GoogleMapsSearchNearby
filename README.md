@@ -1,6 +1,6 @@
 # Google Maps Nearby Scanner : making the project into a library.
 
-#SOMETHING NEW ADDED : OPEN SAMPLE IMPORT AND YOU WILL UNDERSTAND
+# SOMETHING NEW ADDED : OPEN SAMPLE IMPORT AND YOU WILL UNDERSTAND
 
 Conversion of this existing android project into a library which can be imported into another application or project.
 
