@@ -1,5 +1,5 @@
 
-# Google Maps Nearby Scanner : making the project into a library. By the way, i :heart_eyes: you ...:kissing_heart::kissing_heart::kissing_heart:
+# Google Maps Nearby Scanner : making the project into a library.
 
 Conversion of this existing android project into a library which can be imported into another application or project.
 
